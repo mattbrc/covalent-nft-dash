@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/covalent-nft-dash/static/css/main.478ce99d.chunk.css",
-    "main.js": "/covalent-nft-dash/static/js/main.71253fd2.chunk.js",
-    "main.js.map": "/covalent-nft-dash/static/js/main.71253fd2.chunk.js.map",
+    "main.js": "/covalent-nft-dash/static/js/main.c0cd910f.chunk.js",
+    "main.js.map": "/covalent-nft-dash/static/js/main.c0cd910f.chunk.js.map",
     "runtime-main.js": "/covalent-nft-dash/static/js/runtime-main.607e3e94.js",
     "runtime-main.js.map": "/covalent-nft-dash/static/js/runtime-main.607e3e94.js.map",
     "static/js/2.a8c257d8.chunk.js": "/covalent-nft-dash/static/js/2.a8c257d8.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.607e3e94.js",
     "static/js/2.a8c257d8.chunk.js",
     "static/css/main.478ce99d.chunk.css",
-    "static/js/main.71253fd2.chunk.js"
+    "static/js/main.c0cd910f.chunk.js"
   ]
 }
